@@ -49,6 +49,13 @@
 <!-- <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 
 <br />
+
+### 📕 Latest Published Articles
+
+<!-- ARTICLES-LIST:START -->
+- [React Class Component: Bind Event Handlers](https://quizdeveloper.com/tips/the-easy-way-to-binding-event-handlers-in-reactjs-aid66)
+<!-- ARTICLES-LIST:END -->
+
 <br />
 <details>
   <summary>:zap: Github Stats</summary>
