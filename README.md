@@ -10,7 +10,7 @@
 
 <br />
 
-### 📕 Latest Published Articles
+### 📕 My Latest Published Article
 
 <!-- ARTICLES-LIST:START -->
 - [React Class Component: Bind Event Handlers](https://quizdeveloper.com/tips/the-easy-way-to-binding-event-handlers-in-reactjs-aid66)
@@ -19,8 +19,11 @@
 ### Connect with me:
 
 [<img style="margin-left: 5px" alt="portfolio" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<span> || </span>
 [<img style="margin-left: 5px" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<span> || </span>
 [<img style="margin-left: 5px" alt="quanmuito | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<span> || </span>
 [<img style="margin-left: 5px" alt="quanmuito | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
