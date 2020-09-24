@@ -8,6 +8,14 @@
 - 🥅 2020 Goals: Code more - Learn more
 - ⚡ Fun fact: I love music and I've played guitar for 4 years
 
+<br />
+
+### 📕 Latest Published Articles
+
+<!-- ARTICLES-LIST:START -->
+- [React Class Component: Bind Event Handlers](https://quizdeveloper.com/tips/the-easy-way-to-binding-event-handlers-in-reactjs-aid66)
+<!-- ARTICLES-LIST:END -->
+
 ### Connect with me:
 
 [<img style="margin-left: 5px" alt="portfolio" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -51,14 +59,6 @@
 <br />
 
 ---
-
-<br />
-
-### 📕 Latest Published Articles
-
-<!-- ARTICLES-LIST:START -->
-- [React Class Component: Bind Event Handlers](https://quizdeveloper.com/tips/the-easy-way-to-binding-event-handlers-in-reactjs-aid66)
-<!-- ARTICLES-LIST:END -->
 
 <br />
 <details>
