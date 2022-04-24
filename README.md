@@ -19,12 +19,14 @@
 ### Connect with me:
 
 [<img style="margin-left: 5px" alt="portfolio" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<span> || </span>
+
 [<img style="margin-left: 5px" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<span> || </span>
+
 [<img style="margin-left: 5px" alt="quanmuito | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<span> || </span>
+
 [<img style="margin-left: 5px" alt="quanmuito | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img style="margin-left: 5px" alt="quanmuito | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -75,3 +77,4 @@
 [youtube]: https://www.youtube.com/channel/UCMKyUH8y24yxZ40xrlujwXQ?view_as=subscriber
 [instagram]: https://www.instagram.com/_quanmuito_/
 [linkedin]: https://www.linkedin.com/in/quanmuito110299/
+[facebook]: https://www.facebook.com/quanmuito/
