@@ -2,11 +2,11 @@
 
 ## I'm leaning to become a Full-stack Developer!
 
-- 🔭 I’m currently a 4th year student at LAB University of Applied Sciences!
+- 🔭 I’m currently a full-stack developer.
+- 👯 Bachelor degree in Business Information Technology at LAB University of Applied Sciences!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I'm looking for opportunities for IT-related internship
-- 🥅 2020 Goals: Code more - Learn more
-- ⚡ Fun fact: I love music and I've played guitar for 4 years
+- 🥅 2022 Goals: Code more - Learn more
+- ⚡ Fun fact: I love music, I've played guitar for several years and I love playing online games with friends
 
 <br />
 
