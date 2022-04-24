@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Quan Tran - aka [QuanMuiTo][website] 👋 [PORTFOLIO][website]
+# 👋 Hi there, I'm Quan Tran - aka [QuanMuiTo][website] 👋 [PORTFOLIO][website]
 
 - 🔭 I’m currently a full-stack developer.
 - 👯 Bachelor degree in Business Information Technology at LAB University of Applied Sciences!
@@ -8,20 +8,20 @@
 
 <br />
 
-### 📕 My Latest Published Article
+## 📕 My Latest Published Article
 
 <!-- ARTICLES-LIST:START -->
 - [React Class Component: Bind Event Handlers][article1]
 <!-- ARTICLES-LIST:END -->
 
-### 🤝 Connect with me
+## 🤝 Connect with me
 <br />
 
 [<img style="margin: 0 25px" alt="portfolio" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]___[<img style="margin: 0 25px" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]___[<img style="margin: 0 25px" alt="quanmuito | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]___[<img style="margin: 0 25px" alt="quanmuito | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]___[<img style="margin: 0 25px" alt="quanmuito | Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 <br />
 
 <img style="margin-right: 25px" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> __JavaScript__ <br />
@@ -37,7 +37,7 @@
 
 <br />
 
-#### ⚙️ Additional
+## ⚙️ Additional
 <br />
 
 <img style="margin-right: 25px" alt="Angular" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /> __Angular__ <br />
