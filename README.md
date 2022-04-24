@@ -1,6 +1,4 @@
-### Hi there, I'm Quan Tran - aka [QuanMuiTo][website] 👋 [PORTFOLIO][website]
-
-## I'm leaning to become a Full-stack Developer!
+## 👋 Hi there, I'm Quan Tran - aka [QuanMuiTo][website] 👋 [PORTFOLIO][website]
 
 - 🔭 I’m currently a full-stack developer.
 - 👯 Bachelor degree in Business Information Technology at LAB University of Applied Sciences!
@@ -13,66 +11,57 @@
 ### 📕 My Latest Published Article
 
 <!-- ARTICLES-LIST:START -->
-- [React Class Component: Bind Event Handlers](https://quizdeveloper.com/tips/the-easy-way-to-binding-event-handlers-in-reactjs-aid66)
+- [React Class Component: Bind Event Handlers][article1]
 <!-- ARTICLES-LIST:END -->
 
-### Connect with me:
+### 🤝 Connect with me
+<br />
 
-[<img style="margin-left: 5px" alt="portfolio" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img style="margin-left: 5px" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img style="margin-left: 5px" alt="quanmuito | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-[<img style="margin-left: 5px" alt="quanmuito | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img style="margin-left: 5px" alt="quanmuito | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img style="margin-left: 0px" alt="portfolio" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website][<img style="margin-left: 25px" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img style="margin-left: 25px" alt="quanmuito | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube][<img style="margin-left: 25px" alt="quanmuito | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram][<img style="margin-left: 25px" alt="quanmuito | Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
-### Languages and Tools:
+### 🧰 Languages and Tools
+<br />
 
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="AntD" width="30px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
-<img align="left" alt="Material-UI logo" width="30px" src="https://material-ui.com/static/logo.svg">
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img style="margin-right: 25px" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> __JavaScript__
+<img style="margin-right: 25px" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> __React__
+<img style="margin-right: 25px" alt="AntD" width="50px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"> __AntD__
+<img style="margin-right: 25px" alt="Material-UI logo" width="50px" src="https://material-ui.com/static/logo.svg"> __Material UI__
+<img style="margin-right: 25px" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />__SASS__
+<img style="margin-right: 25px" alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /> __PHP__
+<img style="margin-right: 25px" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" /> __Laravel__
+<img style="margin-right: 25px" alt="Typescript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> __Typescript__
+<img style="margin-right: 25px" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> __HTML__
+<img style="margin-right: 25px" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> __CSS__
 
 <br />
 
-#### Additional
-
-<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Jquery" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-<img align="left" alt="csharp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="Symfony" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<!-- <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
-
+#### ⚙️ Additional
 <br />
+
+<img style="margin-right: 25px" alt="Angular" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /> __Angular__
+<img style="margin-right: 25px" alt="Vue" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> __Vue__
+<img style="margin-right: 25px" alt="Jquery" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /> __Jquery__
+<img style="margin-right: 25px" alt="csharp" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /> __C#__
+<img style="margin-right: 25px" alt="Symfony" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" /> __Symfony__
+<img style="margin-right: 25px" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> __NodeJS__
+<img style="margin-right: 25px" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> __MongoDB__
+<img style="margin-right: 25px" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> __MySQL__
+<img style="margin-right: 25px" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> __Git__
+<img style="margin-right: 25px" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> __Github__
 
 ---
 
 <br />
 <details>
-  <summary>:zap: Github Stats</summary>
+<summary>:zap: Github Stats</summary>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quanmuito&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
+[article1]: https://quizdeveloper.com/tips/the-easy-way-to-binding-event-handlers-in-reactjs-aid66
 [website]: https://quanmuito.github.io/portfolio/
 [youtube]: https://www.youtube.com/channel/UCMKyUH8y24yxZ40xrlujwXQ?view_as=subscriber
 [instagram]: https://www.instagram.com/_quanmuito_/
