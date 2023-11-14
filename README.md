@@ -1,9 +1,10 @@
-# 👋 Hi there, I'm Quan Tran - aka [QuanMuiTo][website] 👋 [PORTFOLIO][website]
+# 👋 Hi there, I'm Quan Tran - aka [QuanMuiTo][website] 👋
+## [Check my portfolio][website]
 
 - 🔭 I’m currently a full-stack developer.
 - 👯 Bachelor degree in Business Information Technology at LAB University of Applied Sciences!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Code more - Learn more
+- 🥅 2023 Goals: Code more - Learn more
 - ⚡ Fun fact: I love music, I've played guitar for several years and I love playing online games with friends
 
 <br />
