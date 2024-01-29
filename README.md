@@ -15,6 +15,8 @@
 - [React Class Component: Bind Event Handlers][article1]
 <!-- ARTICLES-LIST:END -->
 
+<br />
+
 ## 🤝 Connect with me
 <br />
 
