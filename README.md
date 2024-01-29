@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Quan Tran - aka [QuanMuiTo][website] 👋
-## [Check my portfolio][website]
+## [Visit my website][website]
 
 - 🔭 I’m currently a full-stack developer.
 - 👯 Bachelor degree in Business Information Technology at LAB University of Applied Sciences!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Code more - Learn more
+- 🥅 2024 Goals: Code more - Learn more
 - ⚡ Fun fact: I love music, I've played guitar for several years and I love playing online games with friends
 
 <br />
@@ -18,52 +18,50 @@
 ## 🤝 Connect with me
 <br />
 
-[<img style="margin: 0 25px" alt="portfolio" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]___[<img style="margin: 0 25px" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]___[<img style="margin: 0 25px" alt="quanmuito | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]___[<img style="margin: 0 25px" alt="quanmuito | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]___[<img style="margin: 0 25px" alt="quanmuito | Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img style="margin: 0 10px" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img style="margin: 0 10px" alt="quanmuito | YouTube" width="50px" src="https://cdn.simpleicons.org/youtube" />][youtube]
+[<img style="margin: 0 10px" alt="quanmuito | Instagram" width="50px" src="https://cdn.simpleicons.org/instagram" />][instagram]
+[<img style="margin: 0 10px" alt="quanmuito | Facebook" width="50px" src="https://cdn.simpleicons.org/facebook" />][facebook]
 
 <br />
 
 ## 🧰 Languages and Tools
 <br />
 
-<img align="left" style="margin-right: 25px" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" style="margin-right: 25px" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" style="margin-right: 25px" alt="AntD" width="50px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
-<img align="left" style="margin-right: 25px" alt="Material-UI logo" width="50px" src="https://material-ui.com/static/logo.svg">
-<img align="left" style="margin-right: 25px" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" style="margin-right: 25px" alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" style="margin-right: 25px" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" style="margin-right: 25px" alt="Typescript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" style="margin-right: 25px" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img style="margin-right: 25px" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+### Languages
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<br />
+### Databases
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## ⚙️ Additional
-<br />
+### Cloud & Tools
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<img align="left" style="margin-right: 25px" alt="Angular" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" style="margin-right: 25px" alt="Vue" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" style="margin-right: 25px" alt="Jquery" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-<img align="left" style="margin-right: 25px" alt="csharp" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" style="margin-right: 25px" alt="Symfony" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
-<img align="left" style="margin-right: 25px" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" style="margin-right: 25px" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" style="margin-right: 25px" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" style="margin-right: 25px" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img style="margin-right: 25px" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### Frameworks and Libraries
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![image](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
 
----
-
-<br />
-<details>
-<summary>:zap: Github Stats</summary>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quanmuito&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+### Have based knowledge
+![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 [article1]: https://quizdeveloper.com/tips/the-easy-way-to-binding-event-handlers-in-reactjs-aid66
-[website]: https://quanmuito.github.io/portfolio/
+[website]: https://www.quanmuito.com/
 [youtube]: https://www.youtube.com/channel/UCMKyUH8y24yxZ40xrlujwXQ?view_as=subscriber
 [instagram]: https://www.instagram.com/_quanmuito_/
 [linkedin]: https://www.linkedin.com/in/quanmuito110299/
