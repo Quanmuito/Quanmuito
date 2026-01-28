@@ -1,10 +1,11 @@
 # 👋 Hi there, I'm Quan Tran - aka [QuanMuiTo][website] 👋
 ## [Visit my website][website]
+## Check out my most interesting project: [Enigma Machine Simulator][https://quanmuito.github.io/enigma/]
 
 - 🔭 I’m currently a full-stack developer.
 - 👯 Bachelor degree in Business Information Technology at LAB University of Applied Sciences!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Code more - Learn more
+- 🥅 2026 Goals: Code more - Learn more
 - ⚡ Fun fact: I love music, I've played guitar for several years and I love playing online games with friends
 
 <br />
