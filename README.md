@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Quan Tran - aka [QuanMuiTo][website] 👋
 ## [Visit my website][website]
-## Check out my most interesting project: [Enigma Machine Simulator][https://quanmuito.github.io/enigma/]
+## Check out my most interesting project: [Enigma Machine Simulator][enigma]
 
 - 🔭 I’m currently a full-stack developer.
 - 👯 Bachelor degree in Business Information Technology at LAB University of Applied Sciences!
@@ -67,3 +67,4 @@
 [instagram]: https://www.instagram.com/_quanmuito_/
 [linkedin]: https://www.linkedin.com/in/quanmuito110299/
 [facebook]: https://www.facebook.com/quanmuito/
+[enigma]: https://quanmuito.github.io/enigma/
